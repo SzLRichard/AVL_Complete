@@ -19,7 +19,7 @@ After that, you can use three functions:
 3. **Backslash Key (\\):**  
    - If you press the backslash key, the last substituted word is deleted from the displayed text **and** removed from the AVL tree, so it will no longer appear as a suggestion.
 
-You close the program at any time by pressing the **Esc** key.
+You terminate the program at any time by pressing the **Esc** key.
 ## Clarifications and Constraints
 - Input and output only include **lowercase letters** of the English alphabet.  
 - The following characters are treated as delimiters: `' '`, `','`, `'.'`, and `'\n'`.  
