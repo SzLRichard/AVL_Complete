@@ -1,6 +1,6 @@
 # AVL_Complete
 
-This autocomplete program implemented in this project works by inserting the entered words into an **AVL tree**.
+The autocomplete program implemented in this project works by inserting the entered words into an **AVL tree**.
 
 It runs in the background and works in any text editor.
 The entered characters are stored in a buffer, and inserted into the tree when a delimiter is typed.
